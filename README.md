@@ -1,5 +1,10 @@
 # Birthday-Surprise-Project
 A Python GUI birthday surprise application with countdown animation, background music, typing effects, and image slideshow using Tkinter, Pygame, and Pillow.
+
+![Main Screen](main_screen.jpeg)
+
+![Gift Popup](gift_popup.jpeg)
+
 # Birthday Surprise App 🎂
 
 An interactive birthday surprise application built using Python.
